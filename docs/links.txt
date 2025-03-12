@@ -1,0 +1,13 @@
+Selenium Course for Beginners - Web Scraping Bots, Browser Automation, Testing (Tutorial)
+https://www.youtube.com/watch?v=j7VZsCCnptM&t=35s
+
+Selenium Python Crash Course
+https://www.youtube.com/playlist?list=PLnNg6KqJ3HGioafhQPnaAuZdP5hGFFRiN
+
+
+docs:
+https://www.selenium.dev/documentation/webdriver/elements/locators/
+
+
+
+https://www.geeksforgeeks.org/selenium-python-tutorial/
